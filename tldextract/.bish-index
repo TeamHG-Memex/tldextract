@@ -1,0 +1,4 @@
+./__init__.py
+./tests/all.py
+./tests/__init__.py
+./tldextract.py

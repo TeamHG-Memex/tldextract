@@ -1,0 +1,9 @@
+./CHANGELOG.md
+./setup.py
+./AGENTS.md
+./README.md
+./tldextract/__init__.py
+./tldextract/tldextract.py
+./tldextract_app/setup.py
+./tldextract_app/README.md
+./tldextract_app/handlers.py
